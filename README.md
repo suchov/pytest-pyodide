@@ -1,7 +1,7 @@
 # pytest-pyodide
 
 [![PyPI Latest Release](https://img.shields.io/pypi/v/pytest-pyodide.svg)](https://pypi.org/project/pytest-pyodide/)
-[![GHA](https://github.com/pyodide/pytest-pyodide/actions/workflows/MAIN/badge.svg)
+[![GHA](https://github.com/pyodide/pytest-pyodide/actions/workflows/main/badge.svg)
 [![codecov](https://codecov.io/gh/pyodide/pytest-pyodide/branch/main/graph/badge.svg?token=U7tWHpJj5c)](https://codecov.io/gh/pyodide/pytest-pyodide)
 
 
